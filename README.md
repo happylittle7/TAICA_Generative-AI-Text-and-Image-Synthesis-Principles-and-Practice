@@ -1,0 +1,1 @@
+# TAICA_Generative-AI-Text-and-Image-Synthesis-Principles-and-Practice

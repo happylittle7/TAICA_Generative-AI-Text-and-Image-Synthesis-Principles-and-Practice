@@ -20,6 +20,17 @@ Semester: 113-2
 3. Gradio Screenshot
 <img width="1283" alt="image" src="https://github.com/user-attachments/assets/7dd8620e-05fc-46c4-83be-11361e61e229" />
 
+## HW3
+This is a written report  
+Please refer to the corresponding pdf file
 
+## HW4
+This is a written report  
+Please refer to the corresponding pdf file
+
+## HW5
+Gradio Screenshot:  
+<img width="1242" alt="image" src="https://github.com/user-attachments/assets/c8c9d477-7244-4bbf-bad1-724f908b933b" />
+<img width="1242" alt="image" src="https://github.com/user-attachments/assets/e47a3928-7a2b-4109-8ea4-5dd919b0b1d7" />
 
 
